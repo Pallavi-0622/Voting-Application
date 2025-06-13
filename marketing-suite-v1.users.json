@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "68491f428f8e2254c9c5b1a2"
+  },
+  "name": "Pallavi",
+  "email": "pallavi@gmail.com",
+  "password": "aba25r2lj5",
+  "createdAt": {
+    "$date": "2025-06-11T06:16:34.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68491fa58f8e2254c9c5b1a5"
+  },
+  "name": "Kalpesh",
+  "email": "kalpesh@gmail.com",
+  "password": "aba25r2lj5",
+  "createdAt": {
+    "$date": "2025-06-11T06:18:13.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6849824ee2ee463bf04af58a"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john@example.com",
+  "phoneNumber": "1234567890",
+  "password": "securePassword123",
+  "companyName": "Tech Corp",
+  "position": "Developer",
+  "website": "https://techcorp.com",
+  "createdAt": {
+    "$date": "2025-06-11T13:19:10.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684982a4219813b424406b6c"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "abc@example.com",
+  "phoneNumber": "1234567890",
+  "password": "securePassword123",
+  "companyName": "Technixia",
+  "position": "Developer",
+  "website": "https://technixia.com",
+  "createdAt": {
+    "$date": "2025-06-11T13:20:36.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684a628fe527dfb4b612a310"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "asd@gmail.com",
+  "phoneNumber": "1234567890",
+  "password": "securePassword123",
+  "companyName": "Technixia",
+  "position": "Developer",
+  "website": "https://technixia.com",
+  "createdAt": {
+    "$date": "2025-06-12T05:15:59.372Z"
+  },
+  "__v": 0
+}]
