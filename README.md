@@ -66,8 +66,6 @@ GET /api/candidates – View all candidates
 POST /api/vote – Submit a vote
 
 📁 Project Structure
-pgsql
-Copy code
 voting-application/
 ├── models/
 │   ├── user.js
